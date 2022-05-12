@@ -1,0 +1,5 @@
+project: jacob-clemente/unshield
+target: unshield
+
+cmds:
+  - cmd: /unshield @@
